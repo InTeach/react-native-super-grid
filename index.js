@@ -108,7 +108,7 @@ class SuperGrid extends Component {
     }
     const itemContainerStyle = {
       flexDirection: 'column',
-      justifyContent: 'center',
+      // justifyContent: 'center',
       width: containerDimension,
       paddingRight: spacing,
     };
